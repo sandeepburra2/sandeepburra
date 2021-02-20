@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+I am currently working in a datascience team of cyient.I enjoy learning emerging technologies and new developments in my field.
+
+Things I'm good at 🔥
+Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Visualization.
+
+Languages: Python, SQL, VBA.
+
+Framework: Django.
+
+Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK.
+
 <!--
 **sandeepburra/sandeepburra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
